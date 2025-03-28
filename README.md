@@ -1,1 +1,1 @@
-![paper img](https://github.com/SiaominLi/LLMs-RLSCT/tree/master/PIC/1-A-002.jpg)
+![paper img](https://github.com/SiaominLi/LLMs-RLSCT/blob/master/PIC/1-A-002.jpg)
